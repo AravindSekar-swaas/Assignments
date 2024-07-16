@@ -1,0 +1,1 @@
+select concat(firstname,Lastname) as FullName from customers;
